@@ -15,4 +15,10 @@ J'ai déjà quelques textes. D'autres  en chantier vont s'ajouter...
 
 Bonne lecture ! 
 
-![un homme dans un espace presque entièrement blanc se tient debout les mains jointes et semble être pensif]({% link images/1088dba2be2da6ee.png %}) 
+![un homme dans un espace presque entièrement blanc se tient debout les mains jointes et semble être pensif]({% link images/1088dba2be2da6ee.png %})
+
+ ## Scribouilli
+
+Ce site est fait avec Scribouilli un petit outil simple et rapide.
+
+[Scribouilli](https://scribouilli.github.io/scribouilli) 
