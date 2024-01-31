@@ -1,3 +1,37 @@
 :root {
     --couleur-primaire : #53606C;
 }
+
+body {
+color: #fff;
+background-color:#1f222a;
+}
+
+a {
+color: #e2af78;
+}
+
+h1 {
+color: #d87c4bff;
+}
+
+h2 {
+color: #d87c4bff;
+}
+
+h3 {
+color: #e2af78;
+}
+
+footer, .skip-links{
+    display: none;
+}
+
+nav ul::before {
+  content: "🐝";
+  width: 25px;
+}
+
+#inktree {
+background-color: blue ;
+}
