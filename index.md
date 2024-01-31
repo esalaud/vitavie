@@ -15,7 +15,7 @@ J'ai déjà quelques textes. D'autres  en chantier vont s'ajouter...
 
 Bonne lecture ! 
 
-![gros plan sur les mains d'un homme qui écrit sur une feuille de papier]({% link images/IMG_20240131_162034.jpg %})
+![gros plan sur les mains d'un homme qui écrit sur un cahier]({% link images/IMG_20240131_162034.jpg %})
 
 ## Scribouilli
 
