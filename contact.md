@@ -5,4 +5,4 @@ in_menu: true
 ---
 Pour le contacter via le réseau social !
 
-[Mastodon](https://kolektiva.social/@Vitavie”) 
+[Mastodon](https://kolektiva.social/@Vitavie) 
