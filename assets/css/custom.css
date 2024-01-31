@@ -23,15 +23,6 @@ h3 {
 color: #e2af78;
 }
 
-footer, .skip-links{
-    display: none;
-}
-
-nav ul::before {
-  content: "🐝";
-  width: 25px;
-}
-
 #inktree {
 background-color: blue ;
 }
