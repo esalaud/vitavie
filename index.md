@@ -5,6 +5,11 @@ in_menu: true
 ---
 # Vitavie
 
-**Bienvenue** sur ce blog !
+**Bienvenue** !
 
-Des **réflexions**, des **idées**, des **souvenirs**, des textes en chantier... 
+Mon pseudonyme est **Vitavie**
+Ce blog est mon atelier d'écriture avec des **réflexions**, des **idées**, des **souvenirs**...
+
+J'ai déjà quelques textes . D'autres  en chantier vont s'ajouter... 
+
+Bonne lecture ! 
