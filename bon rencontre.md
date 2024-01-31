@@ -1,7 +1,7 @@
 ---
 title: "Bon Rencontre"
 order: 4
-in_menu: true
+in_menu: false
 ---
 L'école s'appelait Bon Rencontre.
 C'était un long bâtiment divisé en trois parties.
